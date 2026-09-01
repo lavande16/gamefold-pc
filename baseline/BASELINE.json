@@ -1,0 +1,59 @@
+{
+  "product": "GameFold PC",
+  "baseline": "V1.5-ABOUT-DUAL-SCREEN-LOCKED-10180",
+  "basedOn": {
+    "candidate": "V1.4-QUARK-EXTERNAL-DISPLAY-RC1",
+    "candidateApk": "../../candidates/V1.4-QUARK-EXTERNAL-DISPLAY-RC1/GameFold-PC-V1.4-QUARK-EXTERNAL-DISPLAY-RC1-10179.apk",
+    "candidateSha256": "083f65eb07e6697c7789f45adb87fca093c6255c9f3cacd493b69083715af63c"
+  },
+  "sourceBranch": "codex/gamefold-pc-v1.5-baseline",
+  "sourceCommit": "e492aee37b58690da7d0440419d20f0bc8203458",
+  "gitTag": "gamefold-pc-v1.5-baseline",
+  "apk": "GameFold-PC-V1.5-ABOUT-DUAL-SCREEN-LOCKED-10180.apk",
+  "sha256": "beca0d752720a2fcfc5ba52333d0fb390ac5d1613de3904a130d4ae2c9afc5ad",
+  "sizeBytes": 16552331,
+  "applicationId": "com.gamefold.pc",
+  "versionName": "1.5",
+  "versionCode": 10180,
+  "minSdk": 26,
+  "targetSdk": 28,
+  "debuggable": false,
+  "runAs": false,
+  "downloadUrl": "https://pan.quark.cn/s/f9e56b2baebd#/list/share",
+  "changes": {
+    "xiaohongshuUrl": "https://dribbble.com/lavande",
+    "dribbbleUrl": "https://dribbble.com/lavande",
+    "dualScreenOffAssetSha256": "6925b91c95eacb0ed7f548cdc2cd76537ba65ad05ca047044c8603f2edc0288e",
+    "dualScreenOnAssetSha256": "5293b3a154d9c17dc34ded947f24c9628f2b6feb45d14000d065f07512d71152",
+    "dualScreenAssetSize": "130x130",
+    "layoutRulesChanged": false
+  },
+  "signature": {
+    "scheme": "v2",
+    "certificateSha256": "24a37be7ed0f0431fde44018312271152545d689bb3d1fbe9fbf92914bdf84b4"
+  },
+  "verification": {
+    "unitTests": 455,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "executedTasks": 100,
+    "deviceInstallation": "passed",
+    "deviceSerial": "43925730",
+    "deviceModel": "V2436A",
+    "installedVersionName": "1.5",
+    "installedVersionCode": 10180,
+    "firstInstallTime": "2026-08-19 01:15:52",
+    "lastUpdateTime": "2026-08-30 16:17:32",
+    "manageExternalStorage": "allow",
+    "runAsResult": "package not debuggable",
+    "installedApkSha256": "beca0d752720a2fcfc5ba52333d0fb390ac5d1613de3904a130d4ae2c9afc5ad",
+    "installedApkByteMatched": true,
+    "launchSmokeTest": "passed"
+  },
+  "rollback": {
+    "candidate": "V1.4-QUARK-EXTERNAL-DISPLAY-RC1",
+    "apk": "../../candidates/V1.4-QUARK-EXTERNAL-DISPLAY-RC1/GameFold-PC-V1.4-QUARK-EXTERNAL-DISPLAY-RC1-10179.apk",
+    "sha256": "083f65eb07e6697c7789f45adb87fca093c6255c9f3cacd493b69083715af63c"
+  }
+}
