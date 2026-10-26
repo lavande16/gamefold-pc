@@ -1,12 +1,12 @@
 # GameFold PC
 
 
-> **让 PC 游戏库在折叠屏掌机与外接大屏之间接得自然。**  
-> Take your PC game library from a foldable handheld to a larger display.
+> **在折叠屏掌机上，本地启动你的 PC 游戏。**  
+> Launch your PC games locally on a foldable handheld.
 
 
-<p align="center"><img src="gamefold-pc.png" alt="GameFold PC 掌机游玩与游戏库 / handheld gameplay and library" width="94%"></p>
-<p align="center"><sub>GameFold PC 掌机游玩与游戏库 · GameFold PC handheld gameplay and library</sub></p>
+<p align="center"><img src="gamefold-pc-gameplay.png" alt="GameFold PC 在折叠屏掌机上运行 PC 游戏 / PC gameplay on a foldable handheld" width="94%"></p>
+<p align="center"><sub>GameFold PC 折叠屏掌机游戏体验 · GameFold PC foldable handheld gameplay</sub></p>
 
 
 <p align="center"><a href="https://gamefold.pages.dev">产品官网 / Official site</a> · <a href="https://github.com/lavande16/gamefold-pc-private/releases/tag/gamefold-pc-1.5-10180">下载 V1.5 / Download</a></p>
@@ -23,18 +23,18 @@
 | 主要方向 | PC 游戏库、外接显示与双屏体验 |
 
 
-## 给掌机与大屏之间的一座桥 · From handheld to big screen
+## 把本地 PC 游戏带进掌机 · Your PC games, ready for handheld play
 
-
-- **从熟悉的游戏库开始：**整理本地 PC 游戏入口，让添加、启动与设置都在同一个 GameFold 界面里完成。  
-  **Start from a familiar library:** keep local PC game entries, launch actions and settings together in one GameFold interface.
-- **小屏与外接屏都能继续使用：**V1.5 保留外接显示与双屏控制入口，方便从移动游玩切换到更宽阔的画面。具体效果受设备和显示器支持影响。  
-  **Keep playing on another display:** V1.5 retains external-display and dual-screen controls for a move from mobile play to a larger view. Behavior depends on device and display support.
-- **下载与信息入口更清楚：**Quark 相关下载入口、About 信息和外接屏设置集中在产品体验里。  
-  **Clearer setup paths:** Quark-related download access, About information and external-display controls are part of the product flow.
-- **以普通应用方式运行：**当前 Release 使用非调试构建，不依赖 root 运行模式。  
-  **Runs as a regular app:** the current Release is a non-debuggable build and does not rely on a root run mode.
-
+- **把 PC 游戏带在身边：**在 Android 掌机上整理并启动本地 PC 游戏，让通勤、旅途或零碎时间也能回到自己的游戏库。  
+  **Take your PC games with you:** organize and launch local PC games on an Android handheld, so your library is ready for a commute, a trip or a spare moment.
+- **自己的游戏库，管理与启动在一处：**从 GameFold PC 界面进入本地游戏入口、启动与设置流程，减少在不同工具之间来回切换。  
+  **One place for your library:** access local game entries, launch actions and settings through GameFold PC, with less switching between tools.
+- **从掌机切换到更大画面：**V1.5 保留外接显示与双屏控制入口；设备支持时，可从随身游玩延伸到更宽阔的显示空间。实际效果取决于设备和显示器。  
+  **Move from handheld to a larger display:** V1.5 retains external-display and dual-screen controls. When supported, continue from portable play on a larger screen. Results depend on the device and display.
+- **首次准备有清晰路径：**官网把流程拆成安装 GameFold PC、下载 PC 游戏资源、将完整资源文件夹放入手机根目录三步。游戏资源由使用者自行准备并确保有权使用。  
+  **A clear first-time setup:** the website guides you through installing GameFold PC, getting PC game resources and placing the complete folder in the device root. Users provide their own game files and are responsible for having the right to use them.
+- **作为普通应用运行：**当前 Release 是非调试构建，不依赖 root 运行模式。  
+  **Runs as a regular app:** the current Release is a non-debuggable build and does not require root.
 
 > 仓库保存 GameFold PC V1.5 的源码与基线资料。仓库不提供商业游戏文件；使用者需自行准备有权使用的游戏内容，实际兼容性因设备和游戏而异。  
 > This repository preserves the GameFold PC V1.5 source and baseline materials. Commercial game files are not included; provide content you are entitled to use. Compatibility depends on the device and game.
